@@ -1,4 +1,4 @@
-Buona soia landing page
+This project is a good combination between a Landing page and a e-commerce, you can create your business presentation, publisher your products and add to the cart.
 
 ## Available Scripts
 
